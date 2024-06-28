@@ -22,7 +22,7 @@ This project is a C# application that calculates and displays monthly payment st
 - `Program.cs`: Main entry point of the application.
 
 ## Screenshots
-![2](https://github.com/MarwaAhnadzai/Monthly-Payment-Statement/assets/99272137/c38397ad-371a-4942-a002-0d1797aecf77)
+![22](https://github.com/MarwaAhnadzai/Monthly-Payment-Statement/assets/99272137/7423fe39-d8fd-4f72-aca6-7733de50164a)
 
 ## Contact
 For questions or feedback, please contact Marwa Ahmadzai at marwa7271483@gmail.com.
